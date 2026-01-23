@@ -2,9 +2,9 @@
 
 
 
-
-1) ✅ Professional “About Me” (Best for HR / LinkedIn About)
-
+**
+ ✅ Professional “About Me” **
+ 
 Version 1 (Strong + Professional)
 
 Hi, I’m Dharshan, a passionate Python Full Stack Developer skilled in building responsive web applications and backend systems. I have hands-on experience with HTML, CSS, JavaScript, Python, Django, Flask, and databases like SQLite & MySQL.
@@ -13,7 +13,7 @@ I enjoy creating real-world projects like Employee Management System, and I focu
 
 I’m also currently learning AI/ML to expand my skills into intelligent applications. I’m actively looking for opportunities where I can contribute, learn, and grow as a developer.
 
-2) ✅ “My Journey” Section (HR Attractive Story)
+ ✅ “My Journey” Section (HR Attractive Story)
 
 Version (Perfect for GitHub Profile README / Portfolio)
 
@@ -24,7 +24,7 @@ I also gained API skills using tools like Postman and documentation platforms li
 
 Today, I’m focused on becoming a strong Python Full Stack Developer, and I’m actively learning AI/ML to build smarter applications in the future.
 
-3) ✅ Skills Section (Best Tech Stack Formatting)
+ ✅ Skills Section (Best Tech Stack Formatting)
 🛠 Tech Stack
 
 Frontend: HTML5, CSS3, JavaScript (ES6)
@@ -43,7 +43,7 @@ AI / Machine Learning
 
 Python for Data Science & Model building basics
 
-4) ✅ HR Attractive Headline (LinkedIn Headline)
+✅ HR Attractive Headline (LinkedIn Headline)
 
 Pick any one:
 
@@ -53,7 +53,7 @@ Python Full Stack Developer (Fresher) | Django | Flask | API | MySQL | Learning 
 
 Full Stack Developer | Python | Django | JavaScript | REST APIs | AI/ML Learner
 
-5) ✅ Contact Section (Professional Format)
+ ✅ Contact Section (Professional Format)
 
 Use this on GitHub README / Portfolio:
 
@@ -65,7 +65,7 @@ Use this on GitHub README / Portfolio:
 
 If you send me your LinkedIn + GitHub URLs, I’ll format them as clean clickable badge buttons too.
 
-6) ✅ GitHub Profile README “Connect With Me” Buttons
+ ✅ GitHub Profile README “Connect With Me” Buttons
 
 Copy this into GitHub profile README:
 
