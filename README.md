@@ -1,8 +1,23 @@
 👋 Hi, I'm Dharshan Lakshmanan****
 
-🚀 Python Full Stack Developer | Django | React | AI & Machine Learning
 
-💡 Passionate about building scalable web applications, intelligent AI systems, and modern backend architectures using Python.
+---
+
+👨‍💻 About Me
+
+💻 Python Full Stack Developer with strong backend expertise
+
+🌐 Building full-stack applications using Django, React & REST APIs
+
+🤖 Interested in Artificial Intelligence & Machine Learning
+
+☁️ Deploying applications using AWS, Railway & Cloud Platforms
+
+🔐 Focused on secure, scalable, production-ready applications
+
+📚 Continuously learning new technologies and improving coding skills
+
+---
 
 
 
