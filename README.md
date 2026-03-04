@@ -81,8 +81,11 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /> </p>
 
 ▸ Git
+
 ▸ Github
+
 ▸ Vs Code
+
 ▸ Docker
   
 
