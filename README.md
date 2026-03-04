@@ -1,5 +1,11 @@
 **👋 Hi, I'm Dharshan Lakshmanan**
 
+![Focus](https://img.shields.io/badge/Focus-Python%20Full%20Stack-blue)
+![AI](https://img.shields.io/badge/Interest-Artificial%20Intelligence-green)
+![Backend](https://img.shields.io/badge/Backend-Django-orange)
+![Frontend](https://img.shields.io/badge/Frontend-ReactJS-blue)
+![Open](https://img.shields.io/badge/Open%20To-Internships%20%26%20Junior%20Roles-red)
+
 
 ---
 
