@@ -1,8 +1,19 @@
   **👋 Hi, I'm Dharshan Lakshmanan**
-                                                      
+
 🚀 Python Full Stack Developer | Django | React | AI & Machine Learning
 
+A curious developer who loves turning ideas into real-world projects.
+
+From Python Fullstack Developer to tech content, I enjoy building, learning, and sharing along the way.
+
+🎓 I have completed B.Com(CA) in Commerce with Computer Applications.
+
+💻 I work on everything from backend web Application 
+
+🛠️ Currently open to freelance or collaborative roles — let's connect and create something cool!
+
 💡 Passionate about building scalable web applications, intelligent AI systems, and modern backend architectures using Python.
+
 
 ![Focus](https://img.shields.io/badge/Focus-Python%20Full%20Stack-blue)
 ![AI](https://img.shields.io/badge/Interest-Artificial%20Intelligence-green)
@@ -69,6 +80,7 @@
 🎨 HTML5 / CSS3 / Tailwind
 
 🗄 PostgreSQL / MySQL
+
 🎨  Javascript
 
 ---
@@ -199,6 +211,10 @@ This project demonstrates how to build secure and scalable REST APIs for social 
 ✅ Flexible with work arrangements
 
 ✅ Ready to contribute from day one
+
+---
+
+
 
 
 
