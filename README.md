@@ -53,6 +53,7 @@
 🎨 HTML5 / CSS3 / Tailwind
 
 🗄 PostgreSQL / MySQL
+🎨  Javascript
 
 
 
