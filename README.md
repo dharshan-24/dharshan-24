@@ -1,9 +1,9 @@
-👋 Hi, I'm Dharshan Lakshmanan****
+**👋 Hi, I'm Dharshan Lakshmanan**
 
 
 ---
 
-👨‍💻 About Me
+**👨‍💻 About Me**
 
 💻 Python Full Stack Developer with strong backend expertise
 
@@ -18,6 +18,8 @@
 📚 Continuously learning new technologies and improving coding skills
 
 ---
+
+
 
 
 
