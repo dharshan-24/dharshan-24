@@ -74,6 +74,11 @@
   ● Pandas
   
   ● Matplotlib
+
+  ---
+
+⚙ Tools & Deployment
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" /> </p>
   
 
 
