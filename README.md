@@ -104,6 +104,7 @@
 Bus Management System is a web application designed to automate and simplify bus transportation operations.
 The system allows administrators and passengers to manage bus schedules, routes, seat bookings, and ticket information efficiently.
 
+
 **✨ Key Features**
 
 • Manage bus routes and schedules
@@ -116,20 +117,26 @@ The system allows administrators and passengers to manage bus schedules, routes,
 
 • User-friendly interface for passengers
 
+
+
 **🛠 Tech Stack**
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> </p>
+
 
 **🎯 Project Objective**
 
 The goal of this project is to digitize the traditional bus management process and improve efficiency in managing transportation services. 
 
+
 ---
+
 
 **🌐 Social Network API (Django REST Framework)**
 
 The Social Network API is a backend RESTful application developed using Django REST Framework.
 It provides essential social networking functionalities such as user authentication, user discovery, and friend request management.
+
 
 **✨ Key Features**
 
@@ -143,13 +150,16 @@ It provides essential social networking functionalities such as user authenticat
 
 • Protected API endpoints for authorized users
 
+
 **🛠 Tech Stack**
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> </p>
 
+
 **🎯 Project Objective**
 
 This project demonstrates how to build secure and scalable REST APIs for social networking platforms using Django and DRF. 
+
 
 
 ---
