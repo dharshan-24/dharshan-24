@@ -77,7 +77,7 @@
 
   ---
 
-⚙ Tools & Deployment
+**⚙ Tools & Deployment**
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /> </p>
 
 ▸ Git
@@ -98,7 +98,7 @@
 
 ---
 
-**📫Connect With Me **
+**📫Connect With Me**
 
 💼 LinkedIn :https://www.linkedin.com/in/dharshanl/
 
@@ -110,7 +110,7 @@
 
 ---
 
-** 📩 Currently Available **
+**📩 Currently Available**
 
 ✅ Immediate joiner
 
