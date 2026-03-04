@@ -105,7 +105,9 @@ Bus Management System is a web application designed to automate and simplify bus
 The system allows administrators and passengers to manage bus schedules, routes, seat bookings, and ticket information efficiently.
 
 
+
 **✨ Key Features**
+
 
 • Manage bus routes and schedules
 
@@ -119,9 +121,11 @@ The system allows administrators and passengers to manage bus schedules, routes,
 
 
 
+
 **🛠 Tech Stack**
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> </p>
+
 
 
 **🎯 Project Objective**
