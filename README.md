@@ -69,9 +69,11 @@
 
 </p>
 
-  Numpy
-  Pandas
-  Matplotlib
+  ● Numpy
+  
+  ● Pandas
+  
+  ● Matplotlib
   
 
 
