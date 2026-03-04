@@ -12,11 +12,17 @@
 
 🤖 Interested in Artificial Intelligence & Machine Learning
 
-☁️ Deploying applications using AWS, Railway & Cloud Platforms
+☁️ Deploying applications using Vercel
 
 🔐 Focused on secure, scalable, production-ready applications
 
 📚 Continuously learning new technologies and improving coding skills
+
+📍 Chennai,Tamil Nadu,India
+
+🎨 Focused on clean UI, performance, and usability
+
+🚀 Actively building projects & improving system design skills
 
 ---
 
