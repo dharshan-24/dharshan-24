@@ -57,7 +57,7 @@
 
 ---
 
-**🛠AI & Data**
+**🧠 AI & Data**
 
 <p align="left">
 
@@ -69,7 +69,10 @@
 
 </p>
 
- **.** 
+  Numpy
+  Pandas
+  Matplotlib
+  
 
 
 
