@@ -5,7 +5,6 @@
 
 **👨‍💻 About Me**
 
--
 
 💻 Python Full Stack Developer with strong backend expertise
 
@@ -20,6 +19,20 @@
 📚 Continuously learning new technologies and improving coding skills
 
 ---
+
+**🛠 Tech Stack**
+
+**💻 Full Stack Development**
+
+🐍 Python
+
+🌐 Django
+
+⚛️ React
+
+🎨 HTML5 / CSS3 / Tailwind
+
+🗄 PostgreSQL / MySQL
 
 
 
