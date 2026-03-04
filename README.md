@@ -57,7 +57,7 @@
 
 ---
 
-**AI & Data**
+**🛠AI & Data**
 
 <p align="left">
 
