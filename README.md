@@ -24,16 +24,6 @@
 
 **💻 Full Stack Development**
 
-🐍 Python
-
-🌐 Django
-
-⚛️ React
-
-🎨 HTML5 / CSS3 / Tailwind
-
-🗄 PostgreSQL / MySQL
-
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
@@ -53,6 +43,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
 
 </p>
+
+🐍 Python
+
+🌐 Django
+
+⚛️ React
+
+🎨 HTML5 / CSS3 / Tailwind
+
+🗄 PostgreSQL / MySQL
 
 
 
