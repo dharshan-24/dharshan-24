@@ -1,4 +1,4 @@
-                                                                **👋 Hi, I'm Dharshan Lakshmanan**
+  **👋 Hi, I'm Dharshan Lakshmanan**
                                                       
 🚀 Python Full Stack Developer | Django | React | AI & Machine Learning
 
@@ -9,8 +9,6 @@
 ![Backend](https://img.shields.io/badge/Backend-Django-orange)
 ![Frontend](https://img.shields.io/badge/Frontend-ReactJS-blue)
 ![Open](https://img.shields.io/badge/Open%20To-Internships%20%26%20Junior%20Roles-red)
-
-
 
 
 ---
