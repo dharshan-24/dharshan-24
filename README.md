@@ -89,7 +89,36 @@
 ▸ Docker
   
 
+---
 
+
+
+
+
+
+---
+
+**📫Connect With Me **
+
+💼 LinkedIn :https://www.linkedin.com/in/dharshanl/
+
+📧 Email : dharshanlak2005@gmail.com 
+
+📧 Mobile : 9043813443
+
+🌐 Portfolio Website : https://dharshan-portfolio-xi.vercel.app/
+
+---
+
+** 📩 Currently Available **
+
+✅ Immediate joiner
+
+✅ Open to relocation
+
+✅ Flexible with work arrangements
+
+✅ Ready to contribute from day one
 
 
 
