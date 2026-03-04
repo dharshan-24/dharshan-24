@@ -5,6 +5,8 @@
 
 **👨‍💻 About Me**
 
+---
+
 💻 Python Full Stack Developer with strong backend expertise
 
 🌐 Building full-stack applications using Django, React & REST APIs
