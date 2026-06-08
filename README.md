@@ -71,6 +71,8 @@ From Python Fullstack Developer to tech content, I enjoy building, learning, and
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
 
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="60" height="60"/>
+
 </p>
 
 🐍 Python
